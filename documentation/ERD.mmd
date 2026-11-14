@@ -1,0 +1,9 @@
+erDiagram
+    BRANCHES ||--o{ EMPLOYEES : employs
+    BRANCHES ||--o{ SALES_ORDERS : hosts
+    CUSTOMERS ||--o{ SALES_ORDERS : places
+    EMPLOYEES ||--o{ SALES_ORDERS : serves
+    EMPLOYEES o|--o{ EMPLOYEES : manages
+    SALES_ORDERS ||--|{ ORDER_ITEMS : contains
+    PRODUCTS ||--o{ ORDER_ITEMS : appears_in
+    SALES_ORDERS ||--o{ PAYMENTS : receives
