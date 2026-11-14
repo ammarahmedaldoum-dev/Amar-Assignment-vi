@@ -1,10 +1,10 @@
-# ULK SQL Database — Assignment VI
+# ULK SQL Database — Amar-Assignment-VI
 
 ## Student
 - Name: Amar Ahmed Alduom
 - Department: Data Sciences
 - Roll number: 202512897
-- Submission format: Individual study draft
+- Individual: Amar Ahmed Ahmed
 
 > The assignment asks for groups of five students or fewer and states that AI-generated work must not be presented as the student's own. This is a study draft prepared with AI assistance. Confirm that an individual submission is allowed, follow the instructor's acknowledgment policy, and make sure you can explain all queries before submitting.
 
